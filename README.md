@@ -87,6 +87,17 @@ Amsterdam, **The Netherlands**
 10-12 May 2023  
 Kraków, **Poland** or **Online**
 
+[**Vue.js Live Conference 2023**](https://vuejslive.com/)  
+12-15 May 2023  
+London, **Great Britains** or **Online**
+
+[**JSNation Conference 2023**](https://jsnation.com/)  
+1-5 June 2023  
+Amsterdam, **Netherlands** or **Online**
+
+[**React Summit 2023**](https://reactsummit.com/)  
+2-6 June 2023  
+Amsterdam, **Netherlands** or **Online**
 
 ## North America
 
