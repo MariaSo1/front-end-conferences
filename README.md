@@ -83,6 +83,10 @@ Amsterdam, **The Netherlands**
 9-10 February 2023  
 Amsterdam, **The Netherlands**
 
+[**Node Congress 2023**](https://nodecongress.com/)  
+14-17 April 2023  
+Berlin, **Germany** or **Online**
+
 [**App.js Conf 2023**](https://appjs.co/)  
 10-12 May 2023  
 Kraków, **Poland** or **Online**
