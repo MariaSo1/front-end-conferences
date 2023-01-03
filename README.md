@@ -82,6 +82,10 @@ Amsterdam, **The Netherlands**
 9-10 February 2023  
 Amsterdam, **The Netherlands**
 
+[**Tech Lead Conference**](https://techleadconf.com/)  
+9-10 March 2023  
+**Online**
+
 [**JavaScript Days, Angular Days, React Days und HTML & CSS Days**](https://javascript-days.de/muenchen/)  
 20-23 March 2023  
 Munich, **Germany** or **Online**
